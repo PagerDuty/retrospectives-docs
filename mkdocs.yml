@@ -1,0 +1,56 @@
+# Project Information
+site_name: PagerDuty Retrospectives Documentation
+site_description: A collection of information about the PagerDuty retrospectives process and industry best practices. This guide will teach you how to build a culture that encourages retrospectives, the most important components to include in your retros, and how to conduct effective retrospective meetings.
+site_author: PagerDuty, Inc.
+site_favicon: 'assets/img/icon.png'
+site_url: https://retrospectives.pagerduty.com
+
+# Repository
+repo_url: https://github.com/pagerduty/retrospectives-docs
+
+# Copyright
+copyright: 'Copyright &copy; PagerDuty, Inc.'
+
+# Theme
+theme: 'material'
+theme_dir: 'theme'
+extra_css: ['assets/css/extra.css']
+extra_javascript: ['js/github_forks.js']
+extra:
+  favicon: 'assets/img/icon.png'
+  logo: 'assets/img/icon.png'
+  cover: 'assets/img/covers/default.png'
+  palette:
+    primary: 'green'
+    accent: 'blue grey'
+  author:
+    github: 'PagerDuty'
+    twitter: 'PagerDuty'
+
+# Dev URL
+dev_addr: '0.0.0.0:8080'
+
+# Contents
+pages:
+  - Home: 'index.md'
+  - Getting Started: 'getting_started.md'
+  - Planning The Retrospective: 'planning.md'
+  - During The Retrospective: 'during.md'
+  - After The Retrospective: 'after.md'
+  - Training For The Facilitator: 'facilitator_training.md'
+  - Additional Resources: 'resources.md'
+
+# Analytics
+google_analytics: ['UA-8759953-1', 'auto']
+
+# Extensions
+markdown_extensions:
+  - toc:
+      permalink: '#'
+  - sane_lists:
+  - admonition:
+  - meta:
+  - pymdownx.details:
+  - pymdownx.extra:
+  - pymdownx.mark:
+  - pymdownx.tilde:
