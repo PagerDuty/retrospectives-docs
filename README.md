@@ -1,6 +1,6 @@
 # PagerDuty Retrospectives Documentation
 
-[![Netlify Status](status)](deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef36fac9-07c7-4d30-8057-1057d97414e3/deploy-status)](https://app.netlify.com/sites/retrospectives-88cebb/deploys)
 
 This is a public version of the Retrospectives process used at PagerDuty.  Having retrospectives on a regular basis is one way for your team to learn what they’re doing right, where they can improve, how to avoid making the same mistakes again and again, and how to critically think about how they’re working together. This guide teaches you how to train facilitators, plan, and run retrospective meetings.
 
