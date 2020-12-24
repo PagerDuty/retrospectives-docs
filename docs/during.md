@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/RetroOps_During.png)
+![PagerDuty](../assets/img/headers/Retros-During.png)
 
 ## Setting The Stage
 At the beginning of a retrospective, the facilitator welcomes the team to the retrospective and reminds the team of its purpose, which sets the tone and direction for the session.

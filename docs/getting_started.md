@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/RetroOps_GettingStarted.png)
+![PagerDuty](../assets/img/headers/Retros-GettingStarted.png)
 
 ## What's a retrospective?
 A retrospective is a structured meeting that typically runs for 60 to 120 minutes on a biweekly cadence or after completing a large-scale project. It allows teams the opportunity to examine themselves and create a plan to improve how they work together moving forward.

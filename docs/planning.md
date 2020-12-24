@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/RetroOps_Planning.png)
+![PagerDuty](../assets/img/headers/Retros-Planning.png)
 
 ## Who’s the Retrospective Audience?
 Before having a retrospective, it’s important for you to identify who the retrospective is meant to be tailored to. This section provides guidelines around having a retrospective for a team after a major project is completed or after an event.
@@ -30,7 +30,7 @@ Some retrospective styles are more appropriate for certain situations than other
 | Retrospective Style Name | When Should I Use This Style? | Description |
 |---|---|---|
 [Lean Coffee Retrospective](https://www.learningapprentice.com/lean-coffee-retrospective/) | Anytime! | This simple style is useful when the facilitator wants the team to have an open-ended conversation that is entirely owned and directed by the team.
-[Sailboat Retrospective](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | For conducting project retrospectives when the team has more than just 2 weeks’ worth of data. | This style helps the team to define a vision of where they want to go, identify risks along the path, and identify what inhibits and aids them to achieve their objectives. 
+[Sailboat Retrospective](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | For conducting project retrospectives when the team has more than just 2 weeks’ worth of data. | This style helps the team to define a vision of where they want to go, identify risks along the path, and identify what inhibits and aids them to achieve their objectives.
 [Speed Car Abyss Retrospective](http://www.funretrospectives.com/speed-car-abyss/) | For reflecting on the past and looking forward. It’s especially useful when used a few weeks before a team’s milestone or release. | This style is a mix of a retrospective and futurespective to uncover risks.
 
 Links to more retro styles and instructions for the facilitator can be found [here](resources.md).

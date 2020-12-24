@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/RetroOps_Training.png)
+![PagerDuty](../assets/img/headers/Retros-Training.png)
 
 ## Prerequisites
 Good facilitators tend to have a high level of emotional intelligence. This means they can easily read others’ non-verbal cues to understand how individuals feel. They use this sense to cultivate an environment where everyone is comfortable speaking. Larger organizations may even have a guild of confident retrospective facilitators who coach individuals interested in learning how to facilitate retrospectives. These individuals include, but are not limited to, agile coaches, engineers, and project managers.
