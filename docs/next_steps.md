@@ -1,6 +1,6 @@
-![PagerDuty](../assets/img/headers/Retros-GettingStarted.png)
+![PagerDuty](../assets/img/headers/Retros-NextSteps.png)
 
-## Next Steps - Have Your First Retrospective
+## Your First Retrospective
 
 At this point you may be wondering: what next? Time to have your first retrospective! Before you start, there are a few housekeeping items you should take care of in advance of the meeting:
 
