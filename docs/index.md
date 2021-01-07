@@ -1,11 +1,11 @@
 ![PagerDuty](../assets/img/headers/Retros-Title.png)
 
-Having retrospectives on a regular basis is one way for your team to learn what they’re doing right, where they can improve, how to avoid making the same mistakes again and again, and, most importantly, how to critically think about how they’re working together. Well-designed retrospectives allow teams to iteratively improve their end -product and collaboration process.
+Having retrospectives on a regular basis is one way for your team to learn what they're doing right, where they can improve, how to avoid making the same mistakes again and again, and, most importantly, how to critically think about how they're working together. Well-designed retrospectives allow teams to iteratively improve their end product and collaboration process.
 
-The concept of having retrospectives is well known in the technology industry, but it can be difficult for newer individuals, teams, and organizations to adopt the mindset required to execute effectivefor effective retrospectives. This guide will teach you how to build a culture of continuous improvement, the most important components to include in your retrospectives, and how to conduct effective retrospectives.
+The concept of having retrospectives is well known in the technology industry, but it can be difficult for newer individuals, teams, and organizations to adopt the mindset required to execute effective for effective retrospectives. This guide will teach you how to build a culture of continuous improvement, the most important components to include in your retrospectives, and how to conduct effective retrospectives.
 
 ## Who Is This For?
-This resource is for team members working in any industry who want to iteratively learn from their team’s working processes and behaviors, and for leaders who want to cultivate a culture of continuous improvement within their organization.
+This resource is for team members working in any industry who want to iteratively learn from their team's working processes and behaviors, and for leaders who want to cultivate a culture of continuous improvement within their organization.
 
 ## What Is Covered?
 
@@ -15,29 +15,29 @@ The who, what, when, and why of [retrospectives](getting_started.md). This secti
 ### Planning the retrospective
 A successful retrospective requires some degree of planning by the facilitator. This section outlines factors the facilitator should take into consideration at this stage.
 
-- [Who’s the Retrospective
+- [Who's the Retrospective
   Audience?](planning.md#whos-the-retrospective-audience)
 - [Audience Size](planning.md#audience-size)
 - [Choosing a Retrospective Style](planning.md#choosing-a-retrospective-style)
 - [Facilitating Retrospectives Based on Team Member Locations](planning.md#facilitating-retrospectives-based-on-team-member-locations)
 
-### During the retrospective
-You’ll learn how the facilitator and participants are involved at different phases of the retrospective.
+### During the Retrospective
+You'll learn how the facilitator and participants are involved at different phases of the retrospective.
 
 - [Setting the Stage](during.md#setting-the-stage)
 - [Gathering Data](during.md#gathering-data)
 - [Generating Insights](during.md#generating-insights)
 - [Deciding on Action](during.md#deciding-on-action)
-- [Closing The Retrospective](during.md#closing-the-retrospective)
+- [Closing the Retrospective](during.md#closing-the-retrospective)
 - [Timeboxing the Retrospective](during.md#timeboxing-the-retrospective)
 
-### After the retrospective
+### After the Retrospective
 What to expect after the retrospective is complete.
 
 - [Gathering Feedback From Participants](after.md#gathering-feedback-from-participants)
 - [Following Up On Action Items](after.md#following-up-on-action-items)
 
-### Training for the facilitator
+### Training for the Facilitator
 Information for retrospective facilitators and facilitators-in-training.
 
 - [Prerequisites](facilitator_training.md#prerequisites)
@@ -46,7 +46,7 @@ Information for retrospective facilitators and facilitators-in-training.
 - [Graduation](facilitator_training.md#graduation)
 - [Pocket Reference Guide](facilitator_training.md#pocket-reference-guide)
 
-### Additional resources
+### Additional Resources
 Links to other helpful retrospective facilitation [tips and tools](resources.md).
 
 ## License
