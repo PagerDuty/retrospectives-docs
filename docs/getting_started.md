@@ -47,7 +47,8 @@ The role of participants is to:
 - Be receptive to ideas different than their own.
 - Work with the facilitator to generate insights about the team, come up with alternative options, and challenge their own or their team’s underlying assumptions.
 
-Participants do NOT: 
+Participants do NOT:
+
 - Dominate the meeting.
 - Convince their colleagues to change their perspectives.
 
