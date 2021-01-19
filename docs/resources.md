@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/RetroOps_AdditionalResources.png)
+![PagerDuty](../assets/img/headers/Retros-Resources.png)
 
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) (Philip Rogers)
 - [Pocket Guide to Probing Questions](http://schoolreforminitiative.org/doc/probing_questions_guide.pdf) (School Reform Initiative)

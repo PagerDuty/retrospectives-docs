@@ -1,16 +1,15 @@
-![PagerDuty](../assets/img/headers/RetroOps_Planning.png)
+![PagerDuty](../assets/img/headers/Retros-Planning.png)
 
-## Who’s the Retrospective Audience?
-Before having a retrospective, it’s important for you to identify who the retrospective is meant to be tailored to. This section provides guidelines around having a retrospective for a team after a major project is completed or after an event.
+## Who's the Retrospective Audience?
+Before having a retrospective, it's important for you to identify who the retrospective is meant to be tailored to. This section provides guidelines around having a retrospective for a team after a major project is completed or after an event.
 
 ### Team Retrospective
-Team retrospectives occur at a regular cadence (e.g., biweekly). While working on a project, regularly cadenced retrospectives give the team an opportunity to inspect what went well and what didn’t go so well. From there, teammates work together to create and execute on an improvement plan.
+Team retrospectives occur at a regular cadence (e.g. biweekly). While working on a project, regularly cadenced retrospectives give the team an opportunity to inspect what went well and what didn't go so well. From there, teammates work together to create and execute on an improvement plan.
 
 ### Project, Project Milestone, or Event Retrospective
-The team(s) involved in completing a project, project milestone, or running an event (e.g., company conference) may want to have a retrospective to reflect on what went well and what didn’t go so well throughout their progress on the project. This retrospective is more holistic in nature and enables the involved team(s) to consider the good, the bad, and everything in between, from a macroscopic view. Thus, it’s recommended for the involved team(s) to have regularly cadenced retrospectives and one final retrospective to reflect on the entire deliverable from beginning to end.
+The team(s) involved in completing a project, project milestone, or running an event (e.g., company conference) may want to have a retrospective to reflect on what went well and what didn't go so well throughout their progress on the project. This retrospective is more holistic in nature and enables the involved team(s) to consider the good, the bad, and everything in between, from a macroscopic view. Thus, it's recommended for the involved team(s) to have regularly cadenced retrospectives and one final retrospective to reflect on the entire deliverable from beginning to end.
 
-## Other factors to consider
-
+## Other Factors to Consider
 ### Audience Size
 Sometimes, the facilitator may have to run a retrospective involving larger teams. An example of this is an entire project team consisting of multiple delivery teams. In this scenario, the facilitator may also focus on a longer timeframe than the usual project delivery timelines.
 
@@ -24,14 +23,14 @@ Below is a sample template for the [Lean Coffee](https://www.learningapprentice.
 
 During the retrospective, keep in mind that the larger the group, the more topics there are to discuss. Organize discussion topics by removing duplicates and combining those that are thematically similar.
 
-### Choosing a retrospective style
+### Choosing a Retrospective Style
 Some retrospective styles are more appropriate for certain situations than others. The following are some ideas of retrospective styles and general best practices on when they are the most appropriate:
 
 | Retrospective Style Name | When Should I Use This Style? | Description |
 |---|---|---|
 [Lean Coffee Retrospective](https://www.learningapprentice.com/lean-coffee-retrospective/) | Anytime! | This simple style is useful when the facilitator wants the team to have an open-ended conversation that is entirely owned and directed by the team.
-[Sailboat Retrospective](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | For conducting project retrospectives when the team has more than just 2 weeks’ worth of data. | This style helps the team to define a vision of where they want to go, identify risks along the path, and identify what inhibits and aids them to achieve their objectives. 
-[Speed Car Abyss Retrospective](http://www.funretrospectives.com/speed-car-abyss/) | For reflecting on the past and looking forward. It’s especially useful when used a few weeks before a team’s milestone or release. | This style is a mix of a retrospective and futurespective to uncover risks.
+[Sailboat Retrospective](https://www.pagerduty.com/blog/4-step-agile-sailboat-retrospective/) | For conducting project retrospectives when the team has more than just 2 weeks' worth of data. | This style helps the team to define a vision of where they want to go, identify risks along the path, and identify what inhibits and aids them to achieve their objectives.
+[Speed Car Abyss Retrospective](http://www.funretrospectives.com/speed-car-abyss/) | For reflecting on the past and looking forward. It's especially useful when used a few weeks before a team's milestone or release. | This style is a mix of a retrospective and futurespective to uncover risks.
 
 Links to more retro styles and instructions for the facilitator can be found [here](resources.md).
 
@@ -41,16 +40,16 @@ Since there are slight nuances between facilitation of a co-located and a distri
 #### Co-located Teams
 While facilitating a retrospective for a co-located team:
 
-- **Be mindful of your position in the room. Your physical presence can help drive the discussion one way or another.** For example, if you want to get the team’s attention, you can stand up. If you don’t want to be involved in a discussion topic, you can pull yourself away from the rest of the team to take an observational stance.
+- **Be mindful of your position in the room. Your physical presence can help drive the discussion one way or another.** For example, if you want to get the team's attention, you can stand up. If you don't want to be involved in a discussion topic, you can pull yourself away from the rest of the team to take an observational stance.
 - **Find a suitable space—location, location, location!**
 - Make sure everyone can fit in the room comfortably.
-- Pick a room that isn’t too hot or cold.
-- Consider changing the space periodically to ensure team members don’t start attaching their emotions to a room or priming themselves.
+- Pick a room that isn't too hot or cold.
+- Consider changing the space periodically to ensure team members don't start attaching their emotions to a room or priming themselves.
 
 #### Distributed Teams
 While facilitating a retrospective for a distributed team:
 
-- **Ensure any tools for gathering retrospective insights (e.g., Trello board) are visible to the whole team.**
+- **Ensure any tools for gathering retrospective insights (e.g. Trello board) are visible to the whole team.**
 - **Ensure the team is aware of screen sharing, camera, and microphone etiquette.**
 - Facilitators should share their screen with the team.
 - Facilitators should share their camera so participants can see them
@@ -60,13 +59,13 @@ While facilitating a retrospective for a distributed team:
 #### Any Teams
 While facilitating a retrospective for any team:
 
-- **Use a timer to timebox.** This makes everyone aware of the time limit. Consequently, you won’t have to interrupt or cut anyone off.
+- **Use a timer to timebox.** This makes everyone aware of the time limit. Consequently, you won't have to interrupt or cut anyone off.
 - For a **co-located team**, you may consider using a physical timer that is visible to all team members in the room.
 - For a **distributed team**, you may consider using a browser extension that is visible to the full team ( via screen-sharing).
-- **Begin the retrospective by going through an icebreaker activity.** This reduces team tension and gets people in a more talkative mood. Examples of icebreaker activities: Two truths and a lie, first job, fun fact, a country you’d like to visit, etc.
+- **Begin the retrospective by going through an icebreaker activity.** This reduces team tension and gets people in a more talkative mood. Examples of icebreaker activities: Two truths and a lie, first job, fun fact, a country you'd like to visit, etc.
 - Set ground rules at the beginning of the retrospective, such as:
-- Don’t interrupt people
-- Decide on and say a “safe word” when the discussion gets off-topic
+- Don't interrupt people
+- Decide on and say a "safe word" when the discussion gets off topic
 - Everyone should speak up but no one should dominate the discussion.<sup>1</sup>
 
 ## Setting the Retrospective Agenda
@@ -89,15 +88,15 @@ In any case, if the team has more topics to discuss, the retrospective can be ex
 
 These are suggested timeboxes for activities within a 60-minute retrospective:
 
-- [10 minutes] Reviewing the team’s metrics
+- [10 minutes] Reviewing the team's metrics
 - [5-10 minutes] Idea generation for discussion topics
 - [2 minutes] Team votes on which topics to discuss
-- 5 minutes per discussion topic, with an additional 3 minutes per topic at the team’s discretion
+- 5 minutes per discussion topic, with an additional 3 minutes per topic at the team's discretion
 - [5 minutes] Teammates give each other appreciations<sup>2</sup> for a job well done
 
 If at any point, the team completes an activity before the end of its allotted timebox, the facilitator can step in and propel the team onto the next activity or discussion topic.
 
 ---
-1. Some teams have found success with having the role of “accountabilibuddy” on the team, whose job is to remind the team of a team agreement, especially when the team is at risk of breaking it.
+1. Some teams have found success with having the role of "accountabilibuddy" on the team, whose job is to remind the team of a team agreement, especially when the team is at risk of breaking it.
 
-2. Appreciations are thank-you messages teammates write to each other to acknowledge the team member(s) who helped their colleagues get things done or to recognize team members who went above and beyond in their work. For example, appreciations can be read aloud by their writers before the facilitator concludes the retrospective. This boosts team morale, especially after an emotionally charged retrospective discussion, and reminds the team of all the good they’ve accomplished.
+2. Appreciations are thank-you messages teammates write to each other to acknowledge the team member(s) who helped their colleagues get things done or to recognize team members who went above and beyond in their work. For example, appreciations can be read aloud by their writers before the facilitator concludes the retrospective. This boosts team morale, especially after an emotionally charged retrospective discussion, and reminds the team of all the good they've accomplished.
