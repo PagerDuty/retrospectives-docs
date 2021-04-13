@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-After.png)
+![PagerDuty](/assets/images/headers/Retros-After.png)
 
 ## Gathering Feedback From Participants
 The facilitator may choose to spend the last couple minutes of the retrospective gathering real-time feedback from the team. Teams call this a "retro on the retro."

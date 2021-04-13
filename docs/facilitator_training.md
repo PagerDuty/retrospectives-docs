@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-Training.png)
+![PagerDuty](/assets/images/headers/Retros-Training.png)
 
 ## Prerequisites
 Good facilitators tend to have a high level of emotional intelligence. This means they can easily read others' non-verbal cues to understand how individuals feel. They use this sense to cultivate an environment where everyone is comfortable speaking. Larger organizations may even have a guild of confident retrospective facilitators who coach individuals interested in learning how to facilitate retrospectives. These individuals include, but are not limited to, agile coaches, engineers, and project managers.
@@ -42,7 +42,7 @@ Don't forget to inform teams requiring a retrospective facilitator that you're n
 ## Pocket Reference Guide
 Every retrospective is different, but there's a common process you can apply to each one.
 
-![Facilitating Retros](../assets/img/facilitating_retrospectives.png)
+![Facilitating Retros](/assets/images/facilitating_retrospectives.png)
 
 ### Set the Stage
 Setting the stage involves establishing the purpose of the retrospective and warming the participants up for discussion. This preparation step will encourage every participant to participate later during the retrospective.

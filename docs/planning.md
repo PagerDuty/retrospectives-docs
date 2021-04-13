@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-Planning.png)
+![PagerDuty](/assets/images/headers/Retros-Planning.png)
 
 ## Who's the Retrospective Audience?
 Before having a retrospective, it's important for you to identify who the retrospective is meant to be tailored to. This section provides guidelines around having a retrospective for a team after a major project is completed or after an event.
@@ -19,7 +19,7 @@ Before the retrospective, the facilitator should consider letting the team docum
 
 Below is a sample template for the [Lean Coffee](https://www.learningapprentice.com/lean-coffee-retrospective/) style of retrospective. The topmost card in each column provides clear instructions to team members, especially if the facilitator decides to send the retrospective board to the team beforehand.
 
-![Retro Board](../assets/img/retro_board_example.png)
+![Retro Board](/assets/images/retro_board_example.png)
 
 During the retrospective, keep in mind that the larger the group, the more topics there are to discuss. Organize discussion topics by removing duplicates and combining those that are thematically similar.
 
