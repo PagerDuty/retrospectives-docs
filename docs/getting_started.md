@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-GettingStarted.png)
+![PagerDuty](/assets/images/headers/Retros-GettingStarted.png)
 
 ## What's a retrospective?
 A retrospective is a structured meeting that typically runs for 60 to 120 minutes on a biweekly cadence or after completing a large-scale project. It allows teams the opportunity to examine themselves and create a plan to improve how they work together moving forward.
@@ -17,10 +17,10 @@ A retrospective is meant to create a safe space for team members to share their 
 
 ## Who's involved?
 
-![Who's Involved](../assets/img/whos_involved_in_a_retro.png)
+![Who's Involved](/assets/images/whos_involved_in_a_retro.png)
 
 ### Role of the Facilitator
-The facilitator’s role in the retrospective is different from the other participants. 
+The facilitator’s role in the retrospective is different from the other participants.
 
 The facilitator does not voice their own ideas in the meeting. They encourage the group to speak up and keep the discussion on track. This requires enough cognitive load to make it difficult to perform this role well and attempt to contribute personal thoughts to the discussion. For a successful retrospective, it is helpful to have a designated facilitator that is not also trying to participate in the discussion.
 
@@ -53,7 +53,7 @@ Participants do NOT:
 - Convince their colleagues to change their perspectives.
 
 ## The Differences Between Retrospectives and Postmortems
-You may have already read PagerDuty’s [Postmortems Ops Guide](https://postmortems.pagerduty.com/) and may be wondering how a retrospective is different from a postmortem. 
+You may have already read PagerDuty’s [Postmortems Ops Guide](https://postmortems.pagerduty.com/) and may be wondering how a retrospective is different from a postmortem.
 
 Postmortems are also structured meetings that provide teams with an opportunity to reflect, but they differ in several important ways. The biggest difference is meeting purpose: postmortems are for reflecting on the response to an incident, while retrospectives allow teams to reflect on their progress, pace, and delivery on a regular cadence. Key differences are summarized in the following table:
 

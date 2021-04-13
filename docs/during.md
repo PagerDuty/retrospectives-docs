@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-During.png)
+![PagerDuty](/assets/images/headers/Retros-During.png)
 
 ## Setting The Stage
 At the beginning of a retrospective, the facilitator welcomes the team to the retrospective and reminds the team of its purpose, which sets the tone and direction for the session.
@@ -29,7 +29,7 @@ This is when the facilitator asks the team open-ended questions to gather insigh
 
 Since engineering teams may be primarily distributed, the facilitator typically does this using a remote-friendly collaboration tool. An example using Trello is shown below.
 
-![Data Gathering Example](../assets/img/data_gathering_example.png)
+![Data Gathering Example](/assets/images/data_gathering_example.png)
 
 For retrospectives with a larger audience, the facilitator can consider sending the Trello board and instructions in advance. This gives team members more time to prepare, reflect, and document thoughts.
 

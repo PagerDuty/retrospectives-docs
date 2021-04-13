@@ -1,4 +1,4 @@
-![PagerDuty](../assets/img/headers/Retros-Title.png)
+![PagerDuty](/assets/images/headers/Retros-Title.png)
 
 Having retrospectives on a regular basis is one way for your team to learn what they're doing right, where they can improve, how to avoid making the same mistakes again and again, and, most importantly, how to critically think about how they're working together. Well-designed retrospectives allow teams to iteratively improve their end product and collaboration process.
 

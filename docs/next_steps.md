@@ -1,14 +1,14 @@
-![PagerDuty](../assets/img/headers/Retros-NextSteps.png)
+![PagerDuty](/assets/images/headers/Retros-NextSteps.png)
 
 ## Your First Retrospective
 
 At this point you may be wondering: what next? Time to have your first retrospective! Before you start, there are a few housekeeping items you should take care of in advance of the meeting:
 
 - What tools to use
-- Rules of engagement 
+- Rules of engagement
 - Roles: Who will facilitate and who will take notes
 
-There are several tools to use, which will be guided in part on whether or not your retrospective is in a single conference room or if it's hybrid/fully remote. If you are in a single room, you can easily use physical tools like pens, markers, paper, whiteboards, etc. 
+There are several tools to use, which will be guided in part on whether or not your retrospective is in a single conference room or if it's hybrid/fully remote. If you are in a single room, you can easily use physical tools like pens, markers, paper, whiteboards, etc.
 
 However, if you have at least one person remote, you need to shift to digital tools so that the remote person or persons can participate without barriers. This will mostly be digital replacements for brainstorming or whiteboarding—e.g. Google Jamboards if you have the Google Suite, or Stormboard, Trello, and anything similar. It is best to use a tool that is either already in use at your company or that is a component of a product suite that is already owned to help ensure that everyone has access, even outside of your team. After the meeting you will need to choose a common tool to store your notes for future reference.
 
@@ -36,7 +36,7 @@ Note that this is different from postmortems, but only slightly, as the scope is
 
 The icebreaker above isn't meant to be like what we associate with the types of icebreakers we get to know each other better, usually via onboarding and so forth. The purpose is mainly to get people talking or moving before getting to the brainstorm and feedback phases so that they're already in that state of mind. It could be a round of [Among Us](https://en.wikipedia.org/wiki/Among_Us) or the [Keep Talking Game](https://keeptalkinggame.com/)—anything low stress that involves a lot of conversation. (Due to game length, if you choose one of these games make sure to have a timer as you likely won't finish in ~5 minutes.)
 
-For brainstorming: This is where you'll use whiteboards, sticky notes, etc., to start writing down top-level ideas and putting them in the correct areas. For example, if you're using Trello, you could have a column for each of the four questions, with people popping their idea cards in the correct column. People should only pay loose attention to each other's ideas— duplicates and ideas that should be merged can be handled in the triage phase. 
+For brainstorming: This is where you'll use whiteboards, sticky notes, etc., to start writing down top-level ideas and putting them in the correct areas. For example, if you're using Trello, you could have a column for each of the four questions, with people popping their idea cards in the correct column. People should only pay loose attention to each other's ideas— duplicates and ideas that should be merged can be handled in the triage phase.
 
 When you are ready for the triage phase, keep it as simple as possible and err on the side of caution. It may be quickest to resolve any obvious duplicates, and then move on to merging tickets as that may require (light) discussion. It's better to quickly "yay" or "nay" a merge than to spend time discussing it during the triage phase—more merges or deletes may come up during the main discussion. Before proceeding to the discussion phase, you should rank the ideas according to some consistent metric, usually either by guestimating the time needed to discuss as "short," "long," or "in between," or by relative importance and/or urgency.
 
@@ -48,6 +48,6 @@ Now to discuss! When you are going through the idea tickets [remember](https://r
 
 For that last point, the idea is to try and apply the habits and processes that are successful to areas that are currently unsuccessful, where it makes sense to do so. Try to spend the approximate amount of time you agreed on in the triage phase discussing any topic to minimize any topics that will need to be covered elsewhere, either async via chat, in the next meeting, and so forth. It's important to try to avoid topic overflow because this can cause retrospectives to become quickly overwhelming. That said, please remember to extend yourselves and your teammates grace while they learn, especially when adjusting to new practices. LucidChart has an excellent [blog post](https://www.lucidchart.com/blog/what-is-timeboxing) on how to implement timeboxing to your meetings.
 
-At the end of the day, well, meeting—let's hope it's not a day!—you will need a few action items to try and see if positive change results. Make sure that these action items are in your notes post-meeting. If you would like a note template to get started from, we have one [here](https://docs.google.com/document/d/19M93owg0sNV2n0fDg2JlhS9Z33zi1QDaWd7RJUq9o6k/edit#). Note that you should start documenting your jargon early for anyone else that needs read access to your documents. It's easier to have common terms at the top of each, even if you're copying them from each previous document to the next, so that readers don't need to dive through separate documentation to understand your meeting notes. In terms of visibility, we've found it easier to include the **Action Items** _above_ the freeform **Notes**. 
+At the end of the day, well, meeting—let's hope it's not a day!—you will need a few action items to try and see if positive change results. Make sure that these action items are in your notes post-meeting. If you would like a note template to get started from, we have one [here](https://docs.google.com/document/d/19M93owg0sNV2n0fDg2JlhS9Z33zi1QDaWd7RJUq9o6k/edit#). Note that you should start documenting your jargon early for anyone else that needs read access to your documents. It's easier to have common terms at the top of each, even if you're copying them from each previous document to the next, so that readers don't need to dive through separate documentation to understand your meeting notes. In terms of visibility, we've found it easier to include the **Action Items** _above_ the freeform **Notes**.
 
 And that's it! It's important to take time at the end of each meeting for feedback. The meetings will need to be customized with you as you learn and discover what fits your changing needs best. So at the end of each meeting, get feedback from the team. How did they feel about the process? What could be adapted or removed to make it more effective? What could be adapted or removed to help them feel more comfortable sharing their feedback, especially if they were uncomfortable during the meeting?

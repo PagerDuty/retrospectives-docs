@@ -2,8 +2,7 @@
 site_name: PagerDuty Retrospectives Documentation
 site_description: A collection of information about the PagerDuty retrospectives process and industry best practices. This guide will teach you how to build a culture that encourages retrospectives, the most important components to include in your retros, and how to conduct effective retrospective meetings.
 site_author: PagerDuty, Inc.
-site_favicon: 'assets/img/favicon.png'
-site_url: https://retrospectives.pagerduty.com
+site_url: https://retrospectives.pagerduty.com/
 
 # Repository
 repo_url: https://github.com/pagerduty/retrospectives-docs
@@ -12,26 +11,12 @@ repo_url: https://github.com/pagerduty/retrospectives-docs
 copyright: 'Copyright &copy; PagerDuty, Inc.'
 
 # Theme
-theme: 'material'
-theme_dir: 'theme'
-extra_css: ['assets/css/pagerduty.css','assets/css/custom.css']
-extra_javascript: ['js/github_forks.js']
-extra:
-  favicon: 'assets/img/favicon.png'
-  logo: 'assets/img/icon.png'
-  cover: 'assets/img/covers/default.png'
-  palette:
-    primary: 'green'
-    accent: 'blue grey'
-  author:
-    github: 'PagerDuty'
-    twitter: 'PagerDuty'
-
-# Dev URL
-dev_addr: '0.0.0.0:8080'
+theme:
+  name: pagerduty
+  title: 'Retrospectives'
 
 # Contents
-pages:
+nav:
   - Home: 'index.md'
   - Getting Started: 'getting_started.md'
   - Planning The Retrospective: 'planning.md'
@@ -55,3 +40,10 @@ markdown_extensions:
   - pymdownx.extra:
   - pymdownx.mark:
   - pymdownx.tilde:
+  - pymdownx.highlight:
+  - pymdownx.superfences:
+  - pymdownx.tabbed:
+
+# Development URL, bind to local only.
+dev_addr: '127.0.0.1:8000'
+
