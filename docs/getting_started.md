@@ -7,7 +7,7 @@ A retrospective is meant to create a safe space for team members to share their 
 
 ## Why have retrospectives?
 
-!!! tip "Retrospectives help a team establish a practice of continuous improvement of their interactions and processes. This is achieved through reflecting on “how” a team delivers versus “what” the team delivers.”
+!!! tip "Retrospectives help a team establish a practice of continuous improvement of their interactions and processes. This is achieved through reflecting on “how” a team delivers versus “what” the team delivers."
 
 **Retrospectives create transparency and trust.** They compel a team to discuss both problems and success stories. Being honest and transparent about the good, the bad, the ugly, and everything in between builds trust among team members.
 
