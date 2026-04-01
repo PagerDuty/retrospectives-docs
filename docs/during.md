@@ -74,4 +74,4 @@ The benefits of timeboxing include:
 Refer to the [best practices](planning.md#retrospective-agenda-best-practices) for determining the duration of and timeboxing activities within a retrospective.
 
 ---
-1. [https://www.scruminc.com/what-is-timeboxing/](https://www.scruminc.com/what-is-timeboxing/)
+1. [https://resources.scrumalliance.org/Article/timeboxing-scrum](https://resources.scrumalliance.org/Article/timeboxing-scrum)
